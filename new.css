@@ -1,0 +1,22 @@
+
+body{
+  background: #b3b3b3 !important;
+}
+.paragraf{
+  font-size: 30px;
+  color: white;
+  background-color: black;
+}
+.titlu{
+  font-size: 30px;
+  text-decoration: underline;
+
+}
+
+footer{
+  background-color: black;
+  color: white;
+}
+.subtitlu{
+  font-size: 40px !important;
+}
